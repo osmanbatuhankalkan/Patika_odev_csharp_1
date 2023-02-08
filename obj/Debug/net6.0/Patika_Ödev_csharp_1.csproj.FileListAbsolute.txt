@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/bin/Debug/net6.0/Patika_Ödev_csharp_1
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/bin/Debug/net6.0/Patika_Ödev_csharp_1.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/bin/Debug/net6.0/Patika_Ödev_csharp_1.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/bin/Debug/net6.0/Patika_Ödev_csharp_1.dll
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/bin/Debug/net6.0/Patika_Ödev_csharp_1.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.dll
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/refint/Patika_Ödev_csharp_1.dll
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/Patika_Ödev_csharp_1.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/Patika_Ödev_csharp_1/Patika_Ödev_csharp_1/obj/Debug/net6.0/ref/Patika_Ödev_csharp_1.dll
